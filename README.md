@@ -169,16 +169,4 @@ MIT (can be updated later)
 Built by Zahid Hasan
 Exploring real-time AI voice systems and low-latency architectures.
 
----
 
-## ✅ WHAT TO DO NOW IN VS CODE
-
-1. Open `README.md`
-2. **Paste everything above**
-3. Press **Cmd + S** (save)
-4. Commit and push:
-
-```bash
-git add README.md
-git commit -m "docs: add complete project README"
-git push
